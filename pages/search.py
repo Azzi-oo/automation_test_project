@@ -1,5 +1,5 @@
 from selenium.webdriver.common.by import By
-from selenium.webdriver.comm.keys import Keys
+from selenium.webdriver.common.keys import Keys
 
 
 class DuckDuckGoSearchPage:
